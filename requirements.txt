@@ -1,5 +1,5 @@
 numpy==1.11.2
-network==1.11
+networkx==1.11
 matplotlib==1.5.1
 
 ipython==5.1.0
