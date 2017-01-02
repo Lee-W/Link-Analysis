@@ -1,0 +1,3 @@
+[submodule "Association_Rule"]
+	path = Association_Rule
+	url = https://github.com/Lee-W/Association_Rule
