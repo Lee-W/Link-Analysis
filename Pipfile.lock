@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3e592404ae5e8035fcaf31befeeeb7bcdf92c92b8abd56c1da897fee01fcedcf"
+            "sha256": "a172923be99dd2676b5d236d8276758bc540b5d72b037b788be5fd76f058affe"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -229,11 +229,11 @@
         },
         "notebook": {
             "hashes": [
-                "sha256:125f7713068b4dd507c9db971cc9b6d9a3774fb290816e691068ce86aef17fbf",
-                "sha256:c0d9beb94d7dc4958ec6cc76966c9b63f89092a03823365ae9e2930d38faa7da"
+                "sha256:573e0ae650c5d76b18b6e564ba6d21bf321d00847de1d215b418acb64f056eb8",
+                "sha256:f64fa6624d2323fbef6210a621817d6505a45d0d4a9367f1843b20a38a4666ee"
             ],
             "index": "pypi",
-            "version": "==4.3.0"
+            "version": "==5.7.8"
         },
         "numpy": {
             "hashes": [
@@ -280,6 +280,12 @@
                 "sha256:9649af414d74d4df115d5d718f82acb59c9d418196b7b4290ed47a12ce62df56"
             ],
             "version": "==0.7.5"
+        },
+        "prometheus-client": {
+            "hashes": [
+                "sha256:71cd24a2b3eb335cb800c7159f423df1bd4dcd5171b234be15e3f31ec9f622da"
+            ],
+            "version": "==0.7.1"
         },
         "prompt-toolkit": {
             "hashes": [
@@ -380,6 +386,13 @@
             ],
             "version": "==18.1.1"
         },
+        "send2trash": {
+            "hashes": [
+                "sha256:60001cc07d707fe247c94f74ca6ac0d3255aabcb930529690897ca2a39db28b2",
+                "sha256:f1691922577b6fa12821234aeb57599d887c4900b9ca537948d2dac34aea888b"
+            ],
+            "version": "==1.5.0"
+        },
         "simplegeneric": {
             "hashes": [
                 "sha256:dc972e06094b9af5b855b3df4a646395e43d1c9d0d39ed345b7393560d0b9173"
@@ -398,7 +411,6 @@
                 "sha256:4804a774f802306a7d9af7322193c5390f1da0abb429e082a10ef1d46e6fb2c2",
                 "sha256:a43dcb3e353bc680dd0783b1d9c3fc28d529f190bc54ba9a229f72fe6e7a54d7"
             ],
-            "markers": "sys_platform != 'win32'",
             "version": "==0.8.3"
         },
         "testpath": {
